@@ -19,9 +19,8 @@
 
 ## Descrição do projeto 
 
-<p align="justify">
-  Resolução de desafios propostos no Processo Seletivo do Programa Academia Capgemini, conforme [documento](https://docs.google.com/document/d/1IKz2U0aFkalZ_0hzG2r6kpEfnUK5kd9v/edit?usp=sharing&ouid=105993212333948528041&rtpof=true&sd=true)  
-</p>
+Resolução de desafios propostos no Processo Seletivo do Programa Academia Capgemini, conforme [documento](https://docs.google.com/document/d/1IKz2U0aFkalZ_0hzG2r6kpEfnUK5kd9v/edit?usp=sharing&ouid=105993212333948528041&rtpof=true&sd=true)  
+
 
 ## Desafios
 
